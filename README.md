@@ -2,6 +2,8 @@
 
 Step Into 2030: Learn Any Topic 100x Faster Than Others
 
+https://ezzpbgxl1hfnuwcikzpehcrwrqzv4uep.vercel.app
+
 ## Description
 
 Learn 100x Faster is a revolutionary web application that's redefining the landscape of education and personal development. By harnessing the power of artificial intelligence and cutting-edge learning techniques, this platform empowers users to master any topic at an unprecedented speed. Whether you're a student, professional, or lifelong learner, Learn 100x Faster provides the tools and strategies to accelerate your learning journey and stay ahead in our rapidly evolving world.
